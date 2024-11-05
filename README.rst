@@ -48,3 +48,5 @@ License
 .. |Codecov| image:: https://codecov.io/gh/michalkielan/simple-adb/branch/master/graph/badge.svg
    :target: https://codecov.io/gh/michalkielan/simple-adb
 
+
+  b
